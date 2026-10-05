@@ -10,7 +10,7 @@ Species - Antique Chobi
 - Twitchy
 
 ##### Silkie 
-Species - Fey Familiar Mothkitten
+Species - Fey Mothkitten Familiar
 - Fluffy
 - Baby
 - SAWFT

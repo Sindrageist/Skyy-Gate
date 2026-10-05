@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "! Core Branch/Former Party.md",
-                "mode": "preview",
+                "file": "!! Characters/Luz.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Former Party"
+              "title": "Luz"
             }
           }
         ]
@@ -218,9 +218,9 @@
   },
   "active": "c7856b40a6067807",
   "lastOpenFiles": [
+    "! Core Branch/Former Party.md",
     "! Core Branch/Party.md",
     "! Core Branch/Note Hell.md",
-    "! Core Branch/Former Party.md",
     "!! Characters/Tangle.md",
     "! Session Notes/Session 10.05.26.md",
     "Storage/Templates/Session Notes Template.md",
