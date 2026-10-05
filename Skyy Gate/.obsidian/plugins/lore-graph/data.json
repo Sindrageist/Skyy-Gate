@@ -2,8 +2,7 @@
   "version": 2,
   "enabled": true,
   "hiddenFolders": [
-    "Storage",
-    "! Session Notes/Archives"
+    "Storage"
   ],
   "maxNodes": 20,
   "keepTrail": false

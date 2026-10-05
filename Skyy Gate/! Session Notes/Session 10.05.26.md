@@ -25,5 +25,6 @@
 ==Will - 0==
 ==Lydia - 0==
 ==Party NPCs - 0==
+
 ## Session Start
 Notes

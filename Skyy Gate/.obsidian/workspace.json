@@ -6,6 +6,7 @@
       {
         "id": "2494ec18949c9329",
         "type": "tabs",
+        "dimension": 58.82899628252788,
         "children": [
           {
             "id": "c7856b40a6067807",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "! Session Notes/Session 10.05.26.md",
-                "mode": "source",
+                "file": "! Core Branch/Former Party.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 10.05.26"
+              "title": "Former Party"
             }
           }
         ]
@@ -26,6 +27,7 @@
       {
         "id": "edfc3fd3910d4537",
         "type": "tabs",
+        "dimension": 41.17100371747212,
         "children": [
           {
             "id": "fd3d89feda935d92",
@@ -200,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,8 +218,12 @@
   },
   "active": "c7856b40a6067807",
   "lastOpenFiles": [
-    "Storage/Templates/Session Notes Template.md",
+    "! Core Branch/Party.md",
+    "! Core Branch/Note Hell.md",
+    "! Core Branch/Former Party.md",
+    "!! Characters/Tangle.md",
     "! Session Notes/Session 10.05.26.md",
+    "Storage/Templates/Session Notes Template.md",
     "!! Characters/Luz.md",
     "Storage/Templates",
     "Storage",
@@ -227,8 +233,6 @@
     "!! Characters/Jayne.md",
     "!! Characters/PITA.md",
     "!! Characters/Iskander.md",
-    "! Core Branch/Note Hell.md",
-    "!! Characters/Tangle.md",
     "!! Characters"
   ]
 }
