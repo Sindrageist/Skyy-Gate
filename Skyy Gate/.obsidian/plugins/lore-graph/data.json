@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "enabled": true,
+  "hiddenFolders": [
+    "Storage",
+    "! Session Notes/Archives"
+  ],
+  "maxNodes": 20,
+  "keepTrail": false
+}

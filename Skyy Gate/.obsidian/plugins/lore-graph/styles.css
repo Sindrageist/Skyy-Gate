@@ -1,0 +1,47 @@
+/* Lore Graph plugin styles — minimal for now */
+
+.lore-graph-folder-list {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  width: 100%;
+}
+
+.lore-graph-folder-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.lore-graph-folder-row input[type="text"] {
+  flex: 1;
+}
+
+.lore-graph-remove-btn {
+  background: transparent;
+  border: 1px solid var(--background-modifier-border);
+  color: var(--text-muted);
+  padding: 2px 8px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.lore-graph-remove-btn:hover {
+  color: var(--text-error);
+  border-color: var(--text-error);
+}
+
+.lore-graph-add-btn {
+  background: var(--background-secondary);
+  border: 1px dashed var(--background-modifier-border);
+  color: var(--text-accent);
+  padding: 4px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 4px;
+}
+
+.lore-graph-add-btn:hover {
+  background: var(--background-modifier-hover);
+  border-style: solid;
+}

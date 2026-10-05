@@ -1,0 +1,10 @@
+{
+  "id": "lore-graph",
+  "name": "Lore Graph",
+  "version": "0.1.3",
+  "minAppVersion": "1.5.0",
+  "description": "Hide whole folders from the graph view and reveal their notes on demand by clicking a related node.",
+  "author": "Pierre Bisiaux",
+  "authorUrl": "https://github.com/Bisiaux-dev",
+  "isDesktopOnly": true
+}

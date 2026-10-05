@@ -1,0 +1,53 @@
+{
+  "visible": true,
+  "contextual": false,
+  "statusBar": true,
+  "stackAboveFontToolbar": true,
+  "expandWhenAlone": true,
+  "inactiveDim": 14,
+  "defaultRows": 2,
+  "defaultCols": 3,
+  "headerRow": true,
+  "rowMarkers": false,
+  "cellShades": [
+    {
+      "name": "Yellow",
+      "value": "rgba(255, 213, 0, 0.28)"
+    },
+    {
+      "name": "Orange",
+      "value": "rgba(255, 146, 43, 0.28)"
+    },
+    {
+      "name": "Red",
+      "value": "rgba(224, 49, 58, 0.24)"
+    },
+    {
+      "name": "Pink",
+      "value": "rgba(246, 89, 171, 0.24)"
+    },
+    {
+      "name": "Purple",
+      "value": "rgba(151, 117, 250, 0.26)"
+    },
+    {
+      "name": "Blue",
+      "value": "rgba(51, 154, 240, 0.26)"
+    },
+    {
+      "name": "Teal",
+      "value": "rgba(18, 184, 174, 0.26)"
+    },
+    {
+      "name": "Green",
+      "value": "rgba(64, 192, 87, 0.26)"
+    },
+    {
+      "name": "Grey",
+      "value": "rgba(128, 128, 128, 0.2)"
+    }
+  ],
+  "lastCellShade": "",
+  "lastColumnWidth": "15em",
+  "lastImageWidth": "300"
+}
